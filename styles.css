@@ -1,4 +1,4 @@
-.container-fluid{
+.con{
 background-color: rgb(17, 16, 16);
 height:100px;
 }
@@ -17,4 +17,8 @@ height:100px;
 
 .card-img{
     height:50rem;
+}
+.card-t{
+    font-size: xxx-large;
+    text-align: center;
 }
