@@ -22,3 +22,32 @@ height:100px;
     font-size: xxx-large;
     text-align: center;
 }
+
+.nav-pills{
+    display:flex;
+    justify-content: center;
+}
+
+.card{
+    border:none;
+    border-radius:0;
+} 
+.hi{
+    display:flex;
+    gap:970px;
+}
+
+.card-img1{
+     background-repeat: no-repeat;
+}
+.icon{
+    height:80px;
+}
+
+.fa-square-twitter{
+   height:80px; 
+}
+
+.fa-brands{
+    height:80px;
+}

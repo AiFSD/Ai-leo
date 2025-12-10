@@ -1,0 +1,32 @@
+<div class="card-group container p-4 gap-4 ">       
+  <div class="card" style="border:none;">
+    <img src="https://demo.templatesjungle.com/leo/images/post-image2.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Fashion / jul 11, 2022
+
+</h5>
+      <p class="card-text">How to look outstanding in pastel</p>
+      <p class="card-text"><small class="text-body-secondary">Dignissim lacus,turpis ut suspendisse vel tellus.Turpis purus,gravida orci,fringilla...</small></p>
+    </div>
+  </div>
+  <div class="card" style="border:none;">
+    <img src="https://demo.templatesjungle.com/leo/images/post-image1.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Fashion / jul 11, 2022
+
+</h5>
+      <p class="card-text">Top 10 fashion trend for summer</p>
+      <p class="card-text"><small class="text-body-secondary">Turpis purus, gravida orci, fringilla dignissim lacus, turpis ut suspendisse vel tellus...</small></p>
+    </div>
+  </div>
+  <div class="card" style="border:none;">
+    <img src="https://demo.templatesjungle.com/leo/images/post-image3.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Fashion / jul 11, 2022
+
+</h5>
+      <p class="card-text">Crazy fashion with unique moment</p>
+      <p class="card-text"><small class="text-body-secondary">Turpis purus, gravida orci, fringilla dignissim lacus, turpis ut suspendisse vel tellus...</small></p>
+    </div>
+  </div>
+</div>
