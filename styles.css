@@ -40,14 +40,18 @@ height:100px;
 .card-img1{
      background-repeat: no-repeat;
 }
-.icon{
-    height:80px;
+.form{
+    width:400px;
+   
 }
 
-.fa-square-twitter{
-   height:80px; 
+.form-c{
+    border:2px solid black;
 }
 
-.fa-brands{
-    height:80px;
+
+
+.log-body{
+background-color:#785C4A;
 }
+
